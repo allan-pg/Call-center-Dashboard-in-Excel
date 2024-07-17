@@ -2,7 +2,10 @@
 
 ![Capture](https://github.com/user-attachments/assets/d9a3f287-1c00-4183-8282-a00dbafe120b)  
 
-# Introduction
+# Introduction  
+This is a call center dashboard created with data from October 2020.  
+It has over 30, 000 rows of data  
+
 What i used
 - Pivot Tables
 - Pivot Charts
