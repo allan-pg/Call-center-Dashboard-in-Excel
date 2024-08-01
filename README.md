@@ -11,15 +11,6 @@ Tools used
 - Pivot Tables
 - Pivot Charts
 - Slicer 
- 
-## pivot tables
-A PivotTable is an interactive way to quickly summarize large amounts of data. You can use a PivotTable to analyze numerical data in detail, and answer unanticipated questions about your data.  
-
-## pivot Charts  
-PivotCharts complement PivotTables by adding visualizations to the summary data in a PivotTable, and allow you to easily see comparisons, patterns, and trends.
-
-## Slicers  
-Slicers provide buttons that you can click to filter tables, or PivotTables. Slicers are used to make your Dashboard an interactive Dashboard.
 
 # Data Source
 - What data is needed to achieve our objective?
