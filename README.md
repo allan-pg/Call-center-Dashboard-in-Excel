@@ -21,14 +21,15 @@ PivotCharts complement PivotTables by adding visualizations to the summary data 
 ## Slicers  
 Slicers provide buttons that you can click to filter tables, or PivotTables. Slicers are used to make your Dashboard an interactive Dashboard.
 
-## Data Source
+# Data Source
 - What data is needed to achieve our objective?
 We need Call Center data in excel/csv form that includes:
 - calls by call center
 - State calling from
 - Reason for Calling
 - Channel for calling
-## Stages
+ 
+# Stages
 - Design
 - Developement
 - Analysis
@@ -46,7 +47,7 @@ To understand what it should contain, we need to figure out what questions we ne
 
 For now, these are some of the questions we need to answer, this may change as we progress down our analysis.
 ## Development
-### Pseudocode
+
 What's the general approach in creating this solution from start to finish?
   1. Get the data
   2. Explore the data in Excel
