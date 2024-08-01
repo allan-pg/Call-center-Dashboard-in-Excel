@@ -69,8 +69,8 @@ We have more data than we need, so some of these columns would need to be remove
 
 ## Data cleaning
 - What do we expect the clean data to look like? (What should it contain? What contraints should we apply to it?)  
-The aim is to refine our dataset to ensure it is structured and ready for analysis.  
-The cleaned data should meet the following criteria and constraints:  
+  The aim is to refine our dataset to ensure it is structured and ready for analysis.  
+**The cleaned data should meet the following criteria and constraints:**  
 
 - Only relevant columns should be retained.
 - All data types should be appropriate for the contents of each column.  
