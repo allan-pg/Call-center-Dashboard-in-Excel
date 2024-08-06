@@ -19,11 +19,6 @@ We need Call Center data in excel/csv form that includes:
 - State calling from
 - Reason for Calling
 - Channel for calling
- 
-# Stages
-- Design
-- Developement
-- Analysis
 
 ## Design
 ### Dashboard components required
@@ -37,16 +32,7 @@ To understand what it should contain, we need to figure out what questions we ne
   6. What was our response time to the calls?
 
 For now, these are some of the questions we need to answer, this may change as we progress down our analysis.
-## Development
 
-What's the general approach in creating this solution from start to finish?
-  1. Get the data
-  2. Explore the data in Excel
-  3. Clean the data with SQL
-  4. Load the data into Power BI
-  5. Generate the findings based on the insights
-  6. Write the documentation + commentary
-  7. Publish the data to GitHub Pages
 
 ## Data exploration notes
 This is the stage where you have a scan of what's in the data, errors, inconcsistencies, bugs, weird and corrupted characters etc
